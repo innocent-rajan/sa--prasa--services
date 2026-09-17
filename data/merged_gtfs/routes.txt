@@ -1,0 +1,75 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1,1,ct-chrishani,CAPE TOWN - CHRIS HANI,2
+2,1,ct-kapteinsklip,CAPE TOWN - KAPTEINSKLIP,2
+3,1,ct-nolu,CAPE TOWN - NOLUNGILE,2
+4,1,bellville-mutual,BELLVILLE - MAITLAND,2
+5,1,ct-simon,SIMON'S TOWN - CAPE TOWN,2
+6,1,ct-flats,CAPE TOWN - RETREAT,2
+7,1,ct-bellv,CAPE TOWN - BELLVILLE,2
+8,1,ct-kraai,KRAAIFONTEIN - CAPE TOWN,2
+9,1,ct-eerst,EERSTE RIVER - CAPE TOWN,2
+10,1,ct-strnd,STRAND - CAPE TOWN,2
+11,1,eerst-dtoit,DU TOIT - CAPE TOWN,2
+12,1,ct-well,WELLINGTON - CAPE TOWN,2
+13,1,ct-malm,CAPE TOWN - MALMESBURY,2
+14,1,pta-pien,PRETORIA - PIENAARSPOORT,2
+15,1,pta-mabopane,PRETORIA - MABOPANE,2
+16,1,mab-belle,MABOPANE - BELLE-OMBRE,2
+17,1,pta-dewildt,WINTERSNEST - DE WILDT,2
+18,1,herc-koed,HERCULES - KOEDOESPOORT,2
+19,1,pta-saul,PRETORIA - SAULSVILLE,2
+20,1,germ-leralla,GERMISTON - LERALLA,2
+21,1,germ-kwesine,GERMISTON - KWESINE,2
+22,1,pta-irene,PRETORIA - IRENE,2
+23,1,jhb-germiston,JOHANNESBURG - GERMISTON,2
+24,1,pta-kempton,PRETORIA - KEMPTON PARK,2
+25,1,jhb-rand,JOHANNESBURG - RANDFONTEIN,2
+26,1,jhb-soweto,LANGLAAGTE - NALEDI,2
+27,1,jhb-midway,JOHANNESBURG - LENZ,2
+28,1,kzn-umlazi,DURBAN - UMLAZI,2
+29,1,kzn-bridgecity,BEREA ROAD - BRIDGE CITY,2
+30,1,kzn-winklespruit,DURBAN - WINKLESPRUIT,2
+31,1,kzn-catoridge,DURBAN - CATO RIDGE,2
+32,1,kzn-pinetown,DURBAN - PINETOWN,2
+33,1,kzn-crossmoor,DURBAN YARD - CROSSMOOR,2
+34,1,ec-berlin,EAST LONDON - BERLIN,2
+1001,1,,Johannesburg Park Station - Durban Bus Station,3
+1002,1,,Durban Bus Station - Johannesburg Park Station,3
+1003,1,,Cape Town Civic Center - Johannesburg Park Station,3
+1004,1,,Johannesburg Park Station - Cape Town Civic Center,3
+1005,1,,Johannesburg Park Station - Matatiele,3
+1006,1,,Matatiele - Johannesburg Park Station,3
+1007,1,,Johannesburg Park Station - Lusikisiki,3
+1008,1,,Lusikisiki - Johannesburg Park Station,3
+1009,1,,Johannesburg Park Station - Mbombela (Nelspruit),3
+1010,1,,Johannesburg Park Station - Maputo,3
+1011,1,,Kimberley Tourist Information Centre - Johannesburg Park Station,3
+1012,1,,Johannesburg Tshiawelo Station - Polokwane Grobler Street Bus Station,3
+1013,1,4601,Durban → Pretoria,3
+1014,1,,Pretoria → Durban,3
+1015,1,3834,Johannesburg → Maputo,3
+1016,1,3835,Maputo → Johannesburg,3
+1017,1,,Pretoria → Cape Town,3
+1018,1,3590,Johannesburg / Saulsville → Musina,3
+1019,1,,Tshiawelo → Malamulele,3
+1020,2,,Johannesburg - Maputo,3
+1021,2,,Johannesburg - Phalaborwa,3
+1022,2,,Pretoria - Phalaborwa,3
+1023,2,,Johannesburg - Tzaneen,3
+1024,2,,Phalaborwa - Johannesburg,3
+1025,2,,Maputo - Johannesburg,3
+1026,2,,Johannesburg - Matola,3
+1027,2,,Pretoria - Matola,3
+1028,2,,Pretoria - Maputo,3
+1029,2,,Witbank / Emalahleni - Maputo,3
+1030,2,,Mbombela (Nelspruit) - Maputo,3
+1031,2,,Polokwane - Johannesburg,3
+1032,2,,Pretoria - Polokwane,3
+1033,2,,Johannesburg - Polokwane,3
+1034,2,,Pretoria - Mokopane,3
+1035,2,,Phalaborwa - Mokopane,3
+1036,2,,Phalaborwa - Tzaneen,3
+1037,2,,Pretoria - Tzaneen,3
+1038,2,,Pretoria / Johannesburg → Maputo,3
+1039,2,,Johannesburg / Pretoria → Phalaborwa,3
+1040,2,,Phalaborwa → Johannesburg / Pretoria,3
